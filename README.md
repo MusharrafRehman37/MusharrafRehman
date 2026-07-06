@@ -25,5 +25,5 @@ Become a Professional Full Stack Developer and AI Engineer.
 - GitHub
 
 📫 Connect with me
-- LinkedIn: (Your LinkedIn URL)
-- Email: your@email.com
+- LinkedIn: (www.linkedin.com/in/musharraf-rehman-b90771307)
+- Email: musharrafrehman37@gmail.com
